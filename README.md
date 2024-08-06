@@ -1,5 +1,5 @@
 # Optimum-Mindstorm
-Lap Simulation package for CUFSAE
+Lap Simulation package
 
 # Documentation
 You can find more info in `00 Lap Sim Documentation READ ME FIRST.pdf`
